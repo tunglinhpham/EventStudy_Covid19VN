@@ -1,6 +1,6 @@
 # The effect of the COVID-19 outbreak on stock performance: An analysis in Viet Nam’s stock market.
 
-This is the project analyzing the impact of the first outbreak of the novel coronavirus in Vietnam, starting from March 9<sup>th</sup>, 2020 to April 1<sup>st</sup>, 2021.
+This is the project analyzing the impact of the first outbreak of the novel coronavirus in Vietnam to the stock market, starting from March 9<sup>th</sup>, 2020 to April 1<sup>st</sup>, 2021.
 
 ## Data & Methodology
 
